@@ -1,0 +1,36 @@
+h1,
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#subheading {
+  font-size: 1rem;
+}
+
+.centered {
+  position: absolute;
+  top: 10rem;
+  right: 15%;
+  left: 15%;
+  padding: 1.5rem;
+  border: solid;
+  background-color: pink;
+  text-align: center;
+}
+
+.card-img-top {
+  height: 12rem;
+  object-fit: cover;
+}
+
+#team-photo {
+  height: 10rem;
+}
+
+footer {
+  width: 100%;
+  background-color: pink;
+  color: white;
+  text-align: center;
+}
